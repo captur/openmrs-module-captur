@@ -1,11 +1,10 @@
-KenyaEMR Distribution: OpenMRS Module
+CAPTUR Distribution: OpenMRS Module
 =====================================
 <a href="http://ci.kenyaemr.org/viewType.html?buildTypeId=bt2"><img src="http://ci.kenyaemr.org/app/rest/builds/buildType:bt2/statusIcon"/></a>
 
 Overview
 --------
-Initial ITECH work on an OpenMRS-based EMR for the Kenya MoH, along with the [KenyaUI](https://github.com/I-TECH/openmrs-module-kenyaui)
-module.
+CAPTUR is an OpenMRS-based EMR for the Kenya.
 
 Requirements
 ------------
@@ -22,5 +21,6 @@ mvn -Pdistribution clean package
 
 Accreditation
 -------------
+* I-TECH Kenya-EMR for the code this module is based on.
 * Highcharts graphing library by Highsoft used under Creative Commons Licence 3.0 (http://www.highcharts.com/)
 * Pretty Office Icons used with permission from CustomIconDesign (http://www.customicondesign.com)
