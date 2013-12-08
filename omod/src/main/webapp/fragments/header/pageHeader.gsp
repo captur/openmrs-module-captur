@@ -8,7 +8,7 @@
 <div class="ke-page-header">
 	<div style="float: left; padding-right: 3px">
 		<a href="/${ contextPath }/index.htm?<% if (config.context) { %>${ config.context }<% } %>">
-			<img src="${ ui.resourceLink("kenyaemr", "images/logos/kenyaemr.png") }" width="48" height="48" />
+			<img src="${ ui.resourceLink("kenyaemr", "images/logos/captur.png") }" width="48" height="48" />
 		</a>
 	</div>
 	<div style="float: left">
